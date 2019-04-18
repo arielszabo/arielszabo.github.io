@@ -1,11 +1,12 @@
-# Ariel Szabo
+### About me:
 I am a self taught programmer interested in developing and applying machine and deep learning methods to problems, while gathering data driven insights and conclusions.
 
-## My work can be found here:
+### Some of my work can be found here:
 - [Kaggle Kernels](https://www.kaggle.com/arielszabo/kernels):
-	- [""]()
-	- ["Applied Imbalanced Data Solutions"](https://www.kaggle.com/arielszabo/applied-imbalanced-data-solutions)
-	- ["95% accuracy with a VGG like model on Russian letters images"](https://www.kaggle.com/arielszabo/95-accuracy-with-a-vgg-like-model)
-	- etc
+	- "Better Predicting Wine Cultivar with Feature Selection" - How Can I get better results just by feature selection
+	- ["Applied Imbalanced Data Solutions"](https://www.kaggle.com/arielszabo/applied-imbalanced-data-solutions) - Just some of my tricks I use to handle imbalanced data
+	- ["95% accuracy with a VGG like model on Russian letters images"](https://www.kaggle.com/arielszabo/95-accuracy-with-a-vgg-like-model) - How I got 95% accuracy on Russian letters image classification task
+	- And More ..
 - ["Find Similar Movies"](https://github.com/arielszabo/IMDB_cluster), still in development ..
+- "distinct between old school and new school HipHop just from the Lyrics"
 - [GitHub profile](https://github.com/arielszabo)
