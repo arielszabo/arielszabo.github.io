@@ -1,7 +1,3 @@
-### About me:
-I am a self taught programmer interested in developing and applying machine and deep learning methods to problems, while gathering data driven insights and conclusions.
-
-
 ### Some of my work can be found here:
 - [Kaggle Kernels](https://www.kaggle.com/arielszabo/kernels):
 
