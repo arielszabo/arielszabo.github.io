@@ -23,7 +23,6 @@ I am a self taught programmer interested in developing and applying machine and 
 
 
 
-
-[temp](https://raw.githubusercontent.com/arielszabo/Old_n_New_School_Rap/master/Old_VS_New.html)
+<br/>
 
 - [GitHub profile](https://github.com/arielszabo)
