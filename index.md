@@ -24,6 +24,6 @@ I am a self taught programmer interested in developing and applying machine and 
 
 
 
-[temp](Old_VS_New.html)
+[temp](https://github.com/arielszabo/Old_n_New_School_Rap/blob/master/Old_VS_New.html)
 
 - [GitHub profile](https://github.com/arielszabo)
