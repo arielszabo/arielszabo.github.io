@@ -7,8 +7,6 @@
 
 	- ["95% accuracy with a VGG like model on Russian letters images"](https://www.kaggle.com/arielszabo/95-accuracy-with-a-vgg-like-model) - How I got 95% accuracy on a Russian letters image classification task
 
-	- "How I got ..." - Sentiment analysis using different NLP methods
-
 	- And More ..
 
 
