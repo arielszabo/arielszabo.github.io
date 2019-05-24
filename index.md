@@ -20,3 +20,4 @@
 <br/>
 
 - [GitHub profile](https://github.com/arielszabo)
+- [LinkedIn](https://www.linkedin.com/in/ariel-szabo/)
