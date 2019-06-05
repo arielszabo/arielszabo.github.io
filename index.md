@@ -7,7 +7,7 @@
 
 	- ["95% accuracy with a VGG like model on Russian letters images"](https://www.kaggle.com/arielszabo/95-accuracy-with-a-vgg-like-model) - How I got 95% accuracy on a Russian letters image classification task
 
-	- ["How To Use Bayesian Optimization"](https://www.kaggle.com/arielszabo/how-to-use-bayesian-optimization) - Example of how to use bayesian optimization to do a efficient hyperparameter search.
+	- ["How To Use Bayesian Optimization"](https://www.kaggle.com/arielszabo/how-to-use-bayesian-optimization) - Example of how to use bayesian optimization to do an efficient hyperparameter search.
 
 	- And More ..
 
