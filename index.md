@@ -12,7 +12,7 @@
 	- And More ..
 
 
-- ["Find Similar Movies"](https://github.com/arielszabo/IMDB_cluster), still in development ..
+- ["Find Similar Movies"](https://github.com/arielszabo/FindMeMoreLike), still in development ..
 
 
 - ["Old School VS New school HipHop&Rap"](https://github.com/arielszabo/Old_n_New_School_Rap/blob/master/Old_VS_New.ipynb) - Can we distinct between old school and new school HipHop&Rap just from the Lyrics? Get the data, clean it, build a model and interpret the result.
